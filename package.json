@@ -1,0 +1,13 @@
+{
+  "name": "bot-potop-index-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'static site' && exit 0",
+    "start": "serve ."
+  },
+  "dependencies": {
+    "@openai/agents": "latest"
+  }
+}
